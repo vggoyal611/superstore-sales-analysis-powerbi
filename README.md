@@ -106,10 +106,10 @@ Here are previews of the final dashboard:
 ---
 
 ## <a class="anchor" id="author-contact"></a> 👤 Author & 📧 Contact
-👤 Author: Vaibhav Goyal<br>  
-📧 Email: vg.goyal611@gmail.com<br>  
-💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)<br>  
-🌐 [Portfolio](https://github.com/vggoyal611)<br>
+👤 Author: Vaibhav Goyal
+📧 Email: vg.goyal611@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)
+🌐 [Portfolio](https://github.com/vggoyal611)
 🌐 [Website](https://vaibhav-goyal-7nkea52.gamma.site) 
 
 ---
